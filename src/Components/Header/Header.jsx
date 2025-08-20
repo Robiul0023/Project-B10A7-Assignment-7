@@ -6,7 +6,7 @@ import PropTypes from "prop-types";
            {/*========= Start Navbar======== */}
             <div className="flex justify-between items-center my-4">
                 <div className='w-16' >
-                     <img className='w-30' src="/src/assets/cricket.jpg" alt="" />
+                     <img className='w-30' src="/src/assets/logo.png" alt="" />
                 </div>
                 <div className='ml-5xl'>
                <ul className='flex gap-7 justify-between items-center'>
