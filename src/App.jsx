@@ -22,34 +22,24 @@ function App() {
 
 const notify = (playerName) => {
 
-  
-    if (savings > 0) {
+  if (savings > 0) {
       toast.success(`Congrats! ${playerName}  is now in your squad`);
     } else {
       toast.error("Not enought money to buy this player, claim some credit");
     }
   }; 
 
- 
-  const [players, setPlayers] = useState([]);
-  const handleAddToPlayer = (player)=>{
-      const newPlayers = [...players, player];
-
-      setPlayers(newPlayers);
-  }
 
   return (
     <>
       
-      <Header  notice = {notice}  handleSavings = {handleSavings} savings={savings} handleAddToPlayer={handleAddToPlayer}  players={players}></Header>
+      <Header  notice = {notice}  handleSavings = {handleSavings} savings={savings}></Header>
       <Players notify={notify}></Players>
       <Footer></Footer>
-     
       <ToastContainer position="top-center"></ToastContainer>
+  
+  </>
 
-   
-      
-    </>
   )
 }
 
