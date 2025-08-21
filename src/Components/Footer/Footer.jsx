@@ -51,7 +51,7 @@
           <hr className="border-t border-gray-300 opacity-8 w-full my-10" />
 
             <div className="px-5  pb-9 text-center mx-auto">
-                <p>&copy;2024 Your Company All Rights Reserved.</p>
+                <p>&copy;2025 Silicon Software All Rights Reserved.</p>
             </div>
             </div>
            </div>
