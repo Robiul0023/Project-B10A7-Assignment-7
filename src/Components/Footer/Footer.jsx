@@ -17,7 +17,7 @@
         <div className= "footer-bottom bg-black  footer mt-45   mx-auto">
          
             <div className="mb-5 mt-60 mx-auto">
-            <img className="w-35 h-35  bg-black rounded-3xl px-xl" src="/src/assets/logo-footer.png" alt="" />
+            <img className="w-35 h-35  bg-black rounded-3xl px-xl" src="src/assets/logo-footer.png" alt="" />
             </div>
             <div className="w-full grid grid-cols-1 md:grid-cols-3 mt-3 justify-between p-5 pb-0 ">
                 <div className="p-5 pb-0">

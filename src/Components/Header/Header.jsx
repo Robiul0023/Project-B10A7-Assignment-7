@@ -3,10 +3,11 @@ import PropTypes from "prop-types";
 
     return (
         <div className='w-full md'>
+          <img src="/dist/assets/bg-shadow.png" alt="" />
            {/*========= Start Navbar======== */}
             <div className="flex justify-between items-center my-4">
                 <div className='w-16' >
-                     <img className='w-30' src="/src/assets/logo.png" alt="" />
+                     <img className='w-30' src="src/assets/logo.png" alt="" />
                 </div>
                 <div className='ml-5xl'>
                <ul className='flex gap-7 justify-between items-center'>
@@ -16,11 +17,11 @@ import PropTypes from "prop-types";
                 <li><a href="contact.asp">Contact</a></li>
                 <li><a href="about.asp">About</a></li>
              
-                <button  className='btn btn not-visited:flex items-center mx-3 rounded-lg border-1 border-b-gray-400 gap-3 p-1'>
+                <button  className='btn not-visited:flex items-center mx-3 rounded-lg border-1 border-b-gray-400 gap-3 p-1'>
                      {savings} Coins 
                    
 
-                    <img className='w-4' src= "/src/assets/coin.jpg" alt="" />
+                    <img className='w-4' src= "src/assets/coin.jpg" alt="" />
                 </button>
                 </ul>
                 </div>
@@ -30,7 +31,7 @@ import PropTypes from "prop-types";
        {/*============ Banner Start========== */}
            
                 <div className='image-container relative'>
-                <img className='w-7xl h-dvh' src="/src/assets/banner.jpg" alt=""  />
+                <img className='w-7xl h-dvh' src="src/assets/banner.jpg" alt=""  />
                
                 <button onClick={()=>{notice(), handleSavings()}} className="btn btn absolute top-130 left-1/2 rounded-xl text-black p-2 bg-yellow-300 font-bold">
                  Claim free credit
