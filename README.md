@@ -40,4 +40,4 @@ The project provides an interactive UI with real-time updates and responsive des
 
 1. **Clone the repository**  
 
-git clone https://github.com/B10A7-Assignment-7.git
+git clone https://github.com/Robiul0023/Project-B10A7-Assignment-7.git
