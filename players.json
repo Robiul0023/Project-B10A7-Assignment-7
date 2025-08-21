@@ -1,0 +1,103 @@
+
+ [
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co/G4pp9Kr5/Viral-kohli.png", 
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 2200000
+  },
+  {
+    "playerId": 2,
+    "name": "Joe Root",
+    "country": "England",
+    "image": "https://i.ibb.co/tp5s1SDT/Joe-Root.png",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1500000
+  },
+  {
+    "playerId": 3,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co/fYLDF2GY/Rashid-Khan.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm leg-spin",
+    "biddingPrice": 1800000
+  },
+  {
+    "playerId": 4,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co/bk6GszV/Babar-Azam.webp",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1700000
+  },
+  {
+    "playerId": 5,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co/9HTTRFYX/Ben-Stokes.webp",
+    "role": "All‑Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 2000000
+  },
+  {
+    "playerId": 6,
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "image": "https://i.ibb.co/vvTHWfN2/Kagiso-Rabada.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1600000
+  },
+  {
+    "playerId": 7,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co/N6krkmsY/Shakib-Al-Hasan.webp",
+    "role": "All‑Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Slow left-arm orthodox",
+    "biddingPrice": 1750000
+  },
+  {
+    "playerId": 8,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co/vKpdqy1/Trent-Boult.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 1450000
+  },
+  {
+    "playerId": 9,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co/dsnxLTXr/David-Warner.jpg",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1550000
+  },
+  {
+    "playerId": 10,
+    "name": "KL Rahul",
+    "country": "India",
+    "image": "https://i.ibb.co/9HSqwdzV/KL-Rahul.jpg",
+    "role": "Wicket‑Keeper",
+    "battingType": "Right-hand bat",
+    "bowlingType": "None",
+    "biddingPrice": 1500000
+  }
+]
